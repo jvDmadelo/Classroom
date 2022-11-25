@@ -1,0 +1,8 @@
+**Log on to codeastro.com for more projects!***
+
+**Database Name: virtualclassroom**
+
+**Developed by Jv D. Madelo**
+
+**Recommended PHP Version 5.6.3**
+
